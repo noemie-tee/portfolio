@@ -6,7 +6,7 @@ collection: portfolio
 
 The goal was to create a tool that would automatically generate vine foliage to use as a decoration for walls in a level.
 
-<br/><img src='blob/master/images/vines.png'>
+<br/><img src='/images/vines.png'>
 
 **Initial problems** 
 The original workflow would have requested to model the vines by hand to add them to the level. This process has a few limitations:
