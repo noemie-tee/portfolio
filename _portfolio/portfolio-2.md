@@ -4,22 +4,22 @@ excerpt: "A PCG building that with comes with parameters to create a simple and 
 collection: portfolio
 ---
 
-*My goal was to build a tool that generates a building from a limited number of assets and inputs.
+My goal was to build a tool that generates a building from a limited number of assets and inputs.
 
 **Ease of use**
 
-*The user is able to drag the PCG blueprint into the level and to customize the look of thebarn using the parameters. 
+The user is able to drag the PCG blueprint into the level and to customize the look of thebarn using the parameters. 
 
 **PCG system**
 
-*1. Input : Blueprint's location in the level 
-*2. Creation of a vertical spline, its points being the barn's levels generation origins 
-*3. Barn Lower levels: Rectangle creation for each level to spawn the walls
-*4. Addition of the barn extensions, windows and various beams
-*5. Lower roof positioning and scaling 
-*6. Rectangle creation for the top levels
-*7. Top roof positioning and scaling 
-*8. Cupolas positioning 
+1. Input : Blueprint's location in the level 
+2. Creation of a vertical spline, its points being the barn's levels generation origins 
+3. Barn Lower levels: Rectangle creation for each level to spawn the walls
+4. Addition of the barn extensions, windows and various beams
+5. Lower roof positioning and scaling 
+6. Rectangle creation for the top levels
+7. Top roof positioning and scaling 
+8. Cupolas positioning 
 
 Rules for visual consistency:
 
