@@ -36,3 +36,12 @@ Then, click again on “Generate/Update vines” to see the changes reflected in
 **Technical Summary**
 
 Entire graph view:
+
+1/2
+<br/><img src='/images/Vine%20-%20Full%20Graph%201.png'>
+
+2/2
+<br/><img src='/images/Vine%20-%20Full%20Graph%202.png'>
+
+
+
