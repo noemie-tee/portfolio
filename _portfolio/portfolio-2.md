@@ -1,6 +1,6 @@
 ---
 title: "The barn house"
-excerpt: <img src='/images/barn%20little%20thumbnail.png' width=300 height=300> A PCG building that with comes with parameters to create a simple and customized barn"
+excerpt: <img src='/images/barn%20little%20thumbnail.png' width=50 height=50> A PCG building that with comes with parameters to create a simple and customized barn"
 
 collection: portfolio
 ---
