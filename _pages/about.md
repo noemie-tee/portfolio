@@ -7,4 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm Noemie Tee, a technical artist specialized in Unreal Engine with a passion for all kinds of Procedural Content Generation, tools that simplify artistic processes  and shaders authoring.
+I'm Noemie Tee, a technical artist specialized in Unreal Engine with a passion for all kinds of 
+:house_with_garden: Procedural Content Generation
+:hammer_and_wrench: Tools that simplify artistic processes,
+:art: and shaders authoring.
+
+
+My skills include 
