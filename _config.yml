@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "avatar.jpg"
-  name             : "Noemie Tee"
+  name             : "Noemie Tetiali"
   pronouns         : "she/her"  
-  bio              : "a Technical Artist"
-  location         : "Earth"
+  bio              : "Technical Artist"
+  location         : "London"
   employer         : #"Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "noemie.tetiali@gmail.com" 
 
   # Academic websites
   academia         : # URL
