@@ -1,14 +1,13 @@
 ---
 title: "The barn house"
-excerpt: "<img src='/images/barn%20thumbnail.png'> A PCG building that with comes with parameters to create a simple and customized barn"
+excerpt: <img src='/images/barn%20little%20thumbnail.png' width=300 height=300> A PCG building that with comes with parameters to create a simple and customized barn"
 
 collection: portfolio
 ---
 
 My goal was to build a tool that generates a building from a limited number of assets and inputs.
 
-<img src='/images/barn%20little%20thumbnail.png'>
-
+<img src='/images/barn%20thumbnail.png'>
 **Ease of use**
 
 The user is able to drag the PCG blueprint into the level and to customize the look of thebarn using the parameters. 
