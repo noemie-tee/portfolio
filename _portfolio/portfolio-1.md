@@ -25,6 +25,7 @@ The original workflow would have requested to model the vines by hand to add the
 <iframe width="420" height="315"
 src="https://www.youtube.com/embed/bcWxGyzatkY">
 </iframe>
+<br/>
 
 **Ease of use: one window UI and minimal controls**
 - The most useful controls for this workflow live on the editor as buttons and parameters so that the user does not need to go inside the blueprint in order to customize the vine. I've kept the amount of buttons created via a Editor Utility widget very minimal to keep the tool easy to use. Furthermore, the parameters are set with sliders and sensible default values. 
